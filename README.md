@@ -24,7 +24,9 @@ The USGS collects extensive global earthquake data daily, but lacks an effective
 - Continuous data updates
 
 ### Visualization Creation
-
+![Earthquake_Visualization](https://github.com/user-attachments/assets/fc4927ae-9ed2-433e-9151-1259586c65bd)
+![Satellite_View](https://github.com/user-attachments/assets/9f245b63-e7eb-4588-8938-beb098d1bcdb)
+![Outdoors](https://github.com/user-attachments/assets/5b27b073-9a11-4cf5-b037-ac4d4459f530)
 #### Marker Representation
 - **Magnitude**: Marker size
 - **Depth**: Marker color
@@ -109,12 +111,12 @@ LEAFLET-CHALLENGE
 │   │   └── js/                  
 │   └── index.html               
 ├── Leaflet-Part-2/              
-│   ├── GeoJSON/                 
-│   ├── static/                  
-│   │   ├── css/                 
-│   │   └── js/                  
-│   │       └── logic2.js        
-│   └── index2.html              
+    ├── GeoJSON/                 
+    ├── static/                  
+    │   ├── css/                 
+    │   └── js/                  
+    │       └── logic2.js        
+    └── index2.html              
 
 ```
 
