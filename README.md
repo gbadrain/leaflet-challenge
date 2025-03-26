@@ -27,6 +27,8 @@ The USGS collects extensive global earthquake data daily, but lacks an effective
 ![Earthquake_Visualization](https://github.com/user-attachments/assets/fc4927ae-9ed2-433e-9151-1259586c65bd)
 ![Satellite_View](https://github.com/user-attachments/assets/9f245b63-e7eb-4588-8938-beb098d1bcdb)
 ![Outdoors](https://github.com/user-attachments/assets/5b27b073-9a11-4cf5-b037-ac4d4459f530)
+![screencapture-127-0-0-1-5500-Leaflet-Part-2-index2-html-2025-03-25-21_37_02](https://github.com/user-attachments/assets/1d66d98c-5f78-4fdc-a4ff-a8b27f51c361)
+
 #### Marker Representation
 - **Magnitude**: Marker size
 - **Depth**: Marker color
